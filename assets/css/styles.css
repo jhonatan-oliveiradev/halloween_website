@@ -581,13 +581,13 @@ img {
 .party__star-1 {
 	top: -3rem;
 	left: -0.5rem;
-	animation: animate-star-1 5s ease-in-out;
+	animation: animate-star-1 5s infinite ease-in-out;
 }
 
 .party__star-2 {
 	bottom: 2rem;
 	right: -1.5rem;
-	animation: animate-star-2 5s ease-in-out;
+	animation: animate-star-2 5s infinite ease-in-out;
 }
 
 /*=============== FOOTER ===============*/
